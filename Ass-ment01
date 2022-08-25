@@ -12,5 +12,5 @@ for(i=0;str[i]!='\0';i++)
 if(str[i]==' ')
 count++;
 }
-printf("%d ",count);
+printf("no of words =%d ",count);
 }
